@@ -35,14 +35,17 @@ export default function LoveMemories() {
       <section className="love-message">
         <h1>Happy Birthday My Love ❤️</h1>
         <p className="big-msg">
-          Write your romantic birthday message here…
+          Happy Birthday My Dear Wife 
+          May Allah bless you with full of joy and brings happiness fully loaded in your life and fulfill your all wishes 
+          and to be your marriage with me and together we will ilve our life peacefully and happily in both duniya In Sha Alaah 
+          ----Ameen😁💞
         </p>
 
         <h2 className="promise-title">My Promises to You 💍</h2>
         <ul className="promises">
-          <li>Promise 1...</li>
-          <li>Promise 2...</li>
-          <li>Promise 3...</li>
+          <li>I Promise I will be halal for you</li>
+          <li>I Promise to learn from my mistake and to make u happy and love you with my all heart</li>
+          <li>I promise to be your side whatever the situation is</li>
         </ul>
       </section>
 
