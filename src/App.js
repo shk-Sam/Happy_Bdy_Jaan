@@ -24,7 +24,7 @@ function App() {
   };
 
   const handleSubmit = () => {
-    if (pin === '143') {
+    if (pin === '149') {
       setUnlocked(true);
       setShowWelcome(true);
 
